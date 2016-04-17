@@ -17,4 +17,6 @@ After installation you can use the following commands:
 
 Example: 
 
+![Imagem](http://i.imgur.com/7LcehlB.png)
+
 ##### [LICENSE](https://github.com/FelipeSt4rk/disp/blob/master/LICENSE.md)
